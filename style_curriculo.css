@@ -1,0 +1,52 @@
+body{
+    font-family: verdana, sans-serif;
+    background-color: rgb(237, 198, 255);
+    margin: auto;
+    width: 90%;
+    margin-bottom: 56px;
+
+}
+h1{
+    text-align: center;
+    background-color: rgb(230, 89, 230);
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.p2{
+     text-align: center;
+     margin-top: 0;
+     background-color: rgb(233, 157, 233);
+
+}
+h2{
+    color: rgb(75, 42, 165);
+    background-color: rgb(224, 146, 207);
+    border-bottom: solid 3px black;
+    padding: 7px;
+}
+ul{
+    padding-left: 0;
+    list-style-position: inside;
+}
+a{
+    text-decoration: none;
+}
+.menu{
+    text-align: center;
+}
+.menu a:hover{
+    background-color: rgb(214, 2, 186);
+    color: white;
+    text-decoration: none;
+}
+.menu a{
+    background-color: rgb(231, 147, 213);
+    padding: 16px;
+    display: block;
+}
+
+.menu li{
+    padding: 0;
+    display: inline-block;
+    list-style-type: none;
+}
