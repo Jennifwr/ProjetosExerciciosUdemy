@@ -1,6 +1,7 @@
 body{
     font-family: verdana, sans-serif;
-    background-color: rgb(237, 198, 255);
+    background-color: #2a3477;
+    color: white;
     margin: auto;
     width: 90%;
     margin-bottom: 56px;
@@ -8,20 +9,21 @@ body{
 }
 h1{
     text-align: center;
-    background-color: rgb(230, 89, 230);
+    background-color: #662549;
     font-size: 50px;
     margin-bottom: 0;
 }
 .p2{
      text-align: center;
      margin-top: 0;
-     background-color: rgb(233, 157, 233);
+     background-color: #ae445a;
+     padding: 2px;
 
 }
 h2{
-    color: rgb(75, 42, 165);
-    background-color: rgb(224, 146, 207);
-    border-bottom: solid 3px black;
+    color: white;
+    background-color: #662549;
+    border-bottom: solid 3px #f39f5a;
     padding: 7px;
 }
 ul{
@@ -35,12 +37,12 @@ a{
     text-align: center;
 }
 .menu a:hover{
-    background-color: rgb(214, 2, 186);
+    background-color: #e8bcb9;
     color: white;
     text-decoration: none;
 }
 .menu a{
-    background-color: rgb(231, 147, 213);
+    background-color: #f39f5a;
     padding: 16px;
     display: block;
 }
